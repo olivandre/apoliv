@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is André Oliveira
 
-- 🔭 I’m currently working on Compass UOL using Java, Spring Boot, Quarkus and PostgreSQL.
+- 🔭 I’m currently working with Java, Spring Boot, Quarkus and PostgreSQL.
 
 
 <div style="display: inline_block">
